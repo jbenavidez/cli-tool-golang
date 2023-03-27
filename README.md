@@ -1,2 +1,3 @@
 # goolang-dev
-Basic CLI Tool 
+
+on the terminal run `go run *.go`
